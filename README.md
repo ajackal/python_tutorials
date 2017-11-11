@@ -13,15 +13,15 @@ A collection of tutorials to learn Python. Audience: anyone wanting to learn Pyt
 3. Download and install your prefered _text editor_ or _integrated development environment_ (IDE). There is no one perfect tool, and everyone has their preference. Below is a list of my favoriate and other popular tools that you can do your coding in. While you can do this tutorial and a lot of programming in a text editor, the more complicated your programs get, the more I recommend an IDE as it speeds up your development time and actually helps you learn more and faster. Don't be afraid to start with one program and experiment with others. You will learn which is your favorite by trying all of them.
 	
 	__Text Editors__:
-		*Notepad ++ (personal favorite for Windows environment)
-		*Vim (great for text editing, good for developing simple programs in Linux)
-		*Emacs (a lot of people love it, peronally never used it, simliar to Vim)
+		- Notepad ++ (personal favorite for Windows environment)
+		- Vim (great for text editing, good for developing simple programs in Linux)
+		- Emacs (a lot of people love it, peronally never used it, simliar to Vim)
 	
 	__Integrated Development Environments__ (IDEs):
-		*PyCharm (personal favorite for all my Python program development, all platforms)
-		*VScode (awesome IDE great for multi-language development, but not as good as PyCharm for Python alone)
-		*Atom (also awesome IDE/text editor, similar to VScode, great for multi-language development)
-		*Geany (good free IDE for Linux)
+		- PyCharm (personal favorite for all my Python program development, all platforms)
+		- VScode (awesome IDE great for multi-language development, but not as good as PyCharm for Python alone)
+		- Atom (also awesome IDE/text editor, similar to VScode, great for multi-language development)
+		- Geany (good free IDE for Linux)
 		
 4. All lessons can be completed in one of two ways (or both!):
 	
