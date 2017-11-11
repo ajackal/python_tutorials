@@ -28,3 +28,15 @@ A collection of tutorials to learn Python. Audience: anyone wanting to learn Pyt
 	1. _In an interactive console_: Open a terminal in your OS of choice and type either `python` or `ipython` to enter an interactive console. Great method for testing snippets of code while working on a large program. Nothing is saved, though iPython has a pretty good history (the 'up' arrow).
 	
 	2. _An IDE/Text Editor_: IDEs will have a built-in interactive console in their own interface that you can use to run the code that you have written (usually at the bottom of the IDE). Text Editors (like Notepad ++ & Vim) you will have to open a terminal or command prompt and execute the file with `python filename.py`
+
+## Lesson 1
+
+How to define a function in Python.
+
+## Lesson 2
+
+How to pass arguments to a function.
+
+## Lesson 3
+
+Basic arithmetic. Adding integers, strings and an introduction to Exceptions.
